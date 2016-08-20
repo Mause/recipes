@@ -1,4 +1,5 @@
 ---
+layout: page
 ---
 
 ## Crunchy Witch Cake (Anita's Recipe)

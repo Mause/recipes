@@ -1,4 +1,5 @@
 ---
+layout: page
 ---
 
 ## Swiss cheese, ham, parsley + mustard slice
