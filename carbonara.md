@@ -1,4 +1,8 @@
-Carbonara Receipe ;
+---
+layout: page
+---
+
+# Carbonara Receipe ;
 
 2 Eggs
 2 egg yolks.        Beat well
