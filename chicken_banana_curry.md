@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Chicken Banana Curry
 
 Tags: Dinner
