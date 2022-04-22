@@ -9,3 +9,5 @@ This is a collection of recipes I have sourced from various locations; family, f
  * [Family-Recipe Salad Dressing](salad_dressing)
  * [Savoury Slice](savoury_slice)
  * [Crunchy Witch Cake (Anita's Recipe)](crunchy_witch_cake)
+ * [Carbonara](carbonara)
+ * [Chicken Banana Curry](chicken_banana_curry)
