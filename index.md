@@ -11,3 +11,4 @@ This is a collection of recipes I have sourced from various locations; family, f
  * [Crunchy Witch Cake (Anita's Recipe)](crunchy_witch_cake)
  * [Carbonara](carbonara)
  * [Chicken Banana Curry](chicken_banana_curry)
+ * [Chipotle sweet potato & black bean stew with cheddar dumplings](https://www.bbcgoodfood.com/recipes/chipotle-sweet-potato-black-bean-stew-cheddar-dumplings)
