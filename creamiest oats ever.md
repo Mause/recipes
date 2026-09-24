@@ -1,20 +1,19 @@
-# CREAMIEST OATS EVER
+---
+layout: page
+---
 
-dry oats
+## CREAMIEST OATS EVER
 
-cold water
+by Charley
 
-1/2 tsp salt
-
-1 egg
-
-1 serve shallots, chopped
-
-1 tsp chinese cooking wine
-
-1 tsp sesame oil
-
-white pepper
+- dry oats
+- cold water
+- 1/2 tsp salt
+- 1 egg
+- 1 serve shallots, chopped
+- 1 tsp chinese cooking wine
+- 1 tsp sesame oil
+- white pepper
 
 1. put oats, salt and COLD water in small saucepan. turn on high heat until boiling, then simmer on low for a few minutes.
 
